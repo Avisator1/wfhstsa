@@ -13,10 +13,10 @@ function Hero() {
 
       {/* Text Content Beneath */}
       <div className="bg-white w-full py-16 neue">
-        <h2 className="text-3xl sm:text-5xl font-normal leading-snug max-w-4xl mb-12">
+        <h2 className="text-[26px] sm:text-5xl font-normal leading-snug max-w-4xl mb-12">
            One of the most successful chapters in the 
           <br className="hidden sm:block" />
-            Georgia Technology Student Association.
+          ‎ Georgia Technology Student Association.
         </h2>
 
         {/* Stats Bar - Horizontal */}
