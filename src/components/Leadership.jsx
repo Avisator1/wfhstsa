@@ -9,35 +9,35 @@ const events = [
     title: "National TSA Conference",
     description: "Our chapter traveled to Nashville, TN to participate in the National TSA Conference. Members enjoyed exploring the venue, participating in events, and celebrating our chapter’s national recognition.",
     highlight: "National Recognition • Competitive Success",
-    image: "/src/assets/images/nats.JPG"
+    image: "../assets/images/nats.JPG"
   },
   {
     date: "March 12-15, 2025",
     title: "State Leadership Conference",
     description: "At the Georgia TSA State Conference, our chapter placed highly in various events, received statewide recognition, and had student leaders elected to state office.",
     highlight: "State Placings • Student Leadership",
-    image: "/src/assets/images/slc.JPG"
+    image: "../assets/images/slc.JPG"
   },
   {
     date: "November 8-10, 2024",
     title: "Fall Leadership Conference",
     description: "We participated in workshops, competitions, and a technical presentation designed to prepare members for success at future conferences. We also competed in robotics and had a few laughs during the fun events.",
     highlight: "Workshops • Robotics • Team Building",
-    image: "/src/assets/images/image.png"
+    image: "../assets/images/image.png"
   },
   {
     date: "October 16, 2024",
     title: "Six Flags CTSO Rally",
     description: "Members had a blast enjoying the rides and competing in leadership-based challenges. The event provided a great opportunity to connect with students from other CTSOs across Georgia.",
     highlight: "Networking • Competition • Fun",
-    image: "/src/assets/images/sixseven.jpg"
+    image: "../assets/images/sixseven.jpg"
   },
   {
     date: "October 7, 2024",
     title: "Technology Day",
     description: "Our chapter attended Technology Day at the Georgia National Fairgrounds. We participated in events like Alternative Energy and Robotic Rover and got involved in statewide activities and skits.",
     highlight: "STEM Events • State Skit • Fair Fun",
-    image: "/src/assets/images/prince.png"
+    image: "../assets/images/prince.png"
   }
 ];
 
