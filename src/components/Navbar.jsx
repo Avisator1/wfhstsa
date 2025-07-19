@@ -35,8 +35,8 @@ const Navbar = () => {
         {/* Mobile Menu */}
         <div className={`md:hidden bg-white backdrop-blur-sm transition-all duration-300 ease-in-out overflow-hidden ${isOpen ? 'max-h-[400px]' : 'max-h-0'}`}>
           <div className="px-4 pb-6 flex flex-col space-y-5 coolvetia-font font-[450] text-base text-black">
-            <a href="#home" onClick={() => setIsOpen(false)} className="pt-4 hover:underline">Home</a>
-            <a href="#leadership" onClick={() => setIsOpen(false)} className="hover:underline">Leadership</a>
+            <a href="/" onClick={() => setIsOpen(false)} className="pt-4 hover:underline">Home</a>
+            <a href="/leadership" onClick={() => setIsOpen(false)} className="hover:underline">Leadership</a>
             <a href="#membership" onClick={() => setIsOpen(false)} className="hover:underline">Membership</a>
             <a href="#projects" onClick={() => setIsOpen(false)} className="hover:underline">Service Projects</a>
             <a href="#fundraising" onClick={() => setIsOpen(false)} className="hover:underline">Fundraising</a>
