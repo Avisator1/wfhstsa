@@ -2,6 +2,22 @@ import React, { useState } from 'react';
 import { ScreenFitText } from './TextWidth';
 import { motion, AnimatePresence } from 'framer-motion';
 
+// Image Imports
+import natsImg from '../assets/images/nats.JPG';
+import slcImg from '../assets/images/slc.JPG';
+import flcImg from '../assets/images/image.png';
+import sixFlagsImg from '../assets/images/sixseven.jpg';
+import techDayImg from '../assets/images/prince.png';
+
+import aura from '../assets/images/aura.png';
+import vex from '../assets/images/vex.png';
+import gug from '../assets/images/gug.png';
+import avaneesh from '../assets/images/avaneesh.png';
+import shourya from '../assets/images/shourya.png';
+import flcagain from '../assets/images/flcagain.png';
+import coke from '../assets/images/coke.jpg';
+import techday2 from '../assets/images/techday.png';
+
 // Event Data
 const events = [
   {
@@ -9,48 +25,48 @@ const events = [
     title: "National TSA Conference",
     description: "Our chapter traveled to Nashville, TN to participate in the National TSA Conference. Members enjoyed exploring the venue, participating in events, and celebrating our chapter’s national recognition.",
     highlight: "National Recognition • Competitive Success",
-    image: "../assets/images/nats.JPG"
+    image: natsImg
   },
   {
     date: "March 12-15, 2025",
     title: "State Leadership Conference",
     description: "At the Georgia TSA State Conference, our chapter placed highly in various events, received statewide recognition, and had student leaders elected to state office.",
     highlight: "State Placings • Student Leadership",
-    image: "../assets/images/slc.JPG"
+    image: slcImg
   },
   {
     date: "November 8-10, 2024",
     title: "Fall Leadership Conference",
     description: "We participated in workshops, competitions, and a technical presentation designed to prepare members for success at future conferences. We also competed in robotics and had a few laughs during the fun events.",
     highlight: "Workshops • Robotics • Team Building",
-    image: "../assets/images/image.png"
+    image: flcImg
   },
   {
     date: "October 16, 2024",
     title: "Six Flags CTSO Rally",
     description: "Members had a blast enjoying the rides and competing in leadership-based challenges. The event provided a great opportunity to connect with students from other CTSOs across Georgia.",
     highlight: "Networking • Competition • Fun",
-    image: "../assets/images/sixseven.jpg"
+    image: sixFlagsImg
   },
   {
     date: "October 7, 2024",
     title: "Technology Day",
     description: "Our chapter attended Technology Day at the Georgia National Fairgrounds. We participated in events like Alternative Energy and Robotic Rover and got involved in statewide activities and skits.",
     highlight: "STEM Events • State Skit • Fair Fun",
-    image: "../assets/images/prince.png"
+    image: techDayImg
   }
 ];
 
 // Gallery
 const galleryImages = [
-  "/src/assets/images/aura.png",
-  "/src/assets/images/vex.png",
-  "/src/assets/images/gug.png",
-  "/src/assets/images/avaneesh.png",
-  "/src/assets/images/shourya.png",
-  "/src/assets/images/flcagain.png",
-  "/src/assets/images/coke.jpg",
-  "/src/assets/images/techday.png"
+  aura,
+  vex,
+  gug,
+  avaneesh,
+  shourya,
+  flcagain,
+  coke,
+  techday2
 ];
 
 function Leadership() {
