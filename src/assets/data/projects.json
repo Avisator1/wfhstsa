@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "BMap",
+      "description": "BMap generates a map showing crowded areas in real-time, helping users identify popular spots in urban environments.",
+      "link": "https://www.bmap.dev"
+    },
+    {
+      "id": 2,
+      "title": "AirWatch",
+      "description": "AirWatch is a map that displays air humidity levels across various regions, providing real-time environmental data.",
+      "link": "https://github.com/Avisator1/AirWatch"
+    },
+    {
+      "id": 3,
+      "title": "MemeGenerator",
+      "description": "MemeGenerator is a Go-based application that creates memes by allowing users to add custom text to image templates.",
+      "link": "https://github.com/Avisator1/MemeGenerator"
+    },
+    {
+      "id": 4,
+      "title": "ShadersLauncher",
+      "description": "ShadersLauncher is a tool for MCPE players to easily select and apply different shaders to enhance the game's visuals."
+    },
+    {
+      "id": 5,
+      "title": "VeganGrove",
+      "description": "VeganGrove is a frontend website created for TSA, offering information on vegan products, recipes, and lifestyle.",
+      "link": "https://vegan-grove.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "InformatikInc",
+      "description": "Informatik is a website which was made for cloud consulting. It is mainly a frontend website to showcase there services and business purpose.",
+      "link": "https://informatikinc.com"
+    },
+    {
+      "id": 7,
+      "title": "HumidMapper",
+      "description": "HumidMapper is a web application for TSA which showcases soil humidity data through via a map interface, providing insights into environmental conditions.",
+      "link": "https://humid-mapper.vercel.app"
+    },
+    {
+      "id": 8,
+      "title": "ShoStrings",
+      "description": "This is a blogging website i made for my friend. It is a simple blogging website where you can create, edit and delete your own posts.",
+      "link": "https://shostrings.com"  
+    }
+  ]
+  
