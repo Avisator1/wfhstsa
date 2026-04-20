@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 https://google.com
 https://phantom.lol
+https://pancakes-are-yummy.vercel.app
 
 ## Expanding the ESLint configuration
 
